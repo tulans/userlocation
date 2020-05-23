@@ -2,11 +2,43 @@
 <html>
     <head>
         <title>User Location graph plot</title>
+      <link href="{% static 'usrlocation/styles/graphimg.css' %}" rel="stylesheet" type="text/css" media="all" />
     </head>
     <body>
         <h1> Graph: </h1>
         <div>
-            <img src="{% static 'usrlocation/images/g1.png' %}" alt="graph"/>
+          <form action="/locations/index/" method="post">
+                {% csrf_token %}
+                {{ form }}
+                <input class="button orange" type="submit" value="Submit">
+
+                {% if email %}
+                <div class="pad10">
+                  <p>Email id: {{email}}</p>
+                </div>
+                <div class="row">
+                  <div class="column">
+                    <img src="{% static 'usrlocation/images/g3.png' %}" alt="graph"/>
+                  </div>
+                  <div class="column">
+                    <a href = "/locations/plot_location_graph" target = "_self">
+                      <img src="{% static 'usrlocation/images/g2.svg' %}" alt="graph"/>
+                    </a>
+                  </div>
+                </div>
+                <div>
+                  <div class="column">
+                    <iframe src="{% static 'usrlocation/helper_templates/map.html' %}" title="Location history" width="100%" height="80%"></iframe>
+                  </div>
+                </div>
+                {% endif %}
+
+                {% if error %}
+                <div class="pad10">
+                  <h4 style="color: red">Error</h4>
+                </div>
+                {% endif %}
+            </form>
         </div>
     </body>
 </html>

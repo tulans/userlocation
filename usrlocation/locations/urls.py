@@ -3,4 +3,5 @@ from django.conf.urls import url
 
 urlpatterns = [
     url(r"^plot_location_graph/?$", views.plot_graph),
+    url(r"^index/?$", views.get_emailid)
 ]

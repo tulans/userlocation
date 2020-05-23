@@ -1,0 +1,1862 @@
+{
+    "success": true,
+    "data": [
+        {
+            "deviceId": "a415b0e325d5a5b7",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714625",
+            "longitude": "77.7412151",
+            "time": 1562934902382
+        },
+        {
+            "deviceId": "a415b0e325d5a5b7",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9500192",
+            "longitude": "77.6895798",
+            "time": 1564572536935
+        },
+        {
+            "deviceId": "a415b0e325d5a5b7",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714625",
+            "longitude": "77.7412151",
+            "time": 1562934550943
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.974005099999998",
+            "longitude": "77.7440022",
+            "time": 1587995007687
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.974005099999998",
+            "longitude": "77.7440022",
+            "time": 1583053639347
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.974005099999998",
+            "longitude": "77.7440022",
+            "time": 1582724213536
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740571",
+            "longitude": "77.7439843",
+            "time": 1582034685777
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740571",
+            "longitude": "77.7439843",
+            "time": 1581848455554
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.60346184",
+            "longitude": "76.01968235",
+            "time": 1581668205291
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.97393322938179",
+            "longitude": "77.74423890688728",
+            "time": 1581558745150
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.97393322938179",
+            "longitude": "77.74423890688728",
+            "time": 1581523887074
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.34982669999998",
+            "time": 1581345271097
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8555974",
+            "longitude": "75.3501391",
+            "time": 1576418900883
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.34982669999998",
+            "time": 1576755640896
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1576843144868
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1576297264989
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1576064810022
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "18.4946435",
+            "longitude": "73.8344638",
+            "time": 1575646466911
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "18.4946435",
+            "longitude": "73.8344638",
+            "time": 1574059564745
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "18.4946435",
+            "longitude": "73.8344638",
+            "time": 1573825589776
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "18.4946435",
+            "longitude": "73.8344638",
+            "time": 1573460346747
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "18.4946435",
+            "longitude": "73.8344687",
+            "time": 1573468439228
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "18.4946435",
+            "longitude": "73.8344638",
+            "time": 1573296424193
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "18.4946615",
+            "longitude": "73.8344207",
+            "time": 1573288728906
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1573196242560
+        },
+        {
+            "deviceId": "5dd2c776ba78814b",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1572517440101
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739744",
+            "longitude": "77.744081",
+            "time": 1589889413374
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9752684",
+            "longitude": "77.7450292",
+            "time": 1583354879201
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740442",
+            "longitude": "77.7440523",
+            "time": 1581274022615
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9732358",
+            "longitude": "77.7437073",
+            "time": 1581096228900
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740475",
+            "longitude": "77.7441917",
+            "time": 1581253276204
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9732358",
+            "longitude": "77.7437073",
+            "time": 1581094556878
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491472",
+            "longitude": "77.6904529",
+            "time": 1581044391310
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.949135",
+            "longitude": "77.6903862",
+            "time": 1580892928886
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491472",
+            "longitude": "77.6904529",
+            "time": 1580903141463
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740161",
+            "longitude": "77.744054",
+            "time": 1580872541320
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740217",
+            "longitude": "77.7439988",
+            "time": 1580835218821
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740082",
+            "longitude": "77.7440758",
+            "time": 1580782525009
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740217",
+            "longitude": "77.7439988",
+            "time": 1580819534724
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9738146",
+            "longitude": "77.7439732",
+            "time": 1580657822513
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9738146",
+            "longitude": "77.7439732",
+            "time": 1580442095654
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491639",
+            "longitude": "77.6904579",
+            "time": 1580362892346
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739883",
+            "longitude": "77.7438821",
+            "time": 1580393471247
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740084",
+            "longitude": "77.7439371",
+            "time": 1580404405678
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739883",
+            "longitude": "77.7438821",
+            "time": 1580268923513
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491712",
+            "longitude": "77.6905086",
+            "time": 1583387799866
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739784",
+            "longitude": "77.7441214",
+            "time": 1590084100836
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739878",
+            "longitude": "77.7440389",
+            "time": 1589985710098
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740046",
+            "longitude": "77.7439702",
+            "time": 1585387882665
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714796",
+            "longitude": "77.7412055",
+            "time": 1570263115555
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739963",
+            "longitude": "77.7439612",
+            "time": 1585190029357
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9490589",
+            "longitude": "77.6904254",
+            "time": 1580222437272
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740046",
+            "longitude": "77.7439702",
+            "time": 1585387853110
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.948902",
+            "longitude": "77.6903251",
+            "time": 1578410480463
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "15.5157443",
+            "longitude": "73.770572",
+            "time": 1578169890391
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "15.5157406",
+            "longitude": "73.7705667",
+            "time": 1578129611326
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "17.1891818",
+            "longitude": "74.1808497",
+            "time": 1578079541417
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "17.2764318",
+            "longitude": "74.1775367",
+            "time": 1578075270317
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "17.2764322",
+            "longitude": "74.1776988",
+            "time": 1578074763720
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.85566986",
+            "longitude": "75.34967238",
+            "time": 1578070990196
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.855556850376963",
+            "longitude": "75.34963276864006",
+            "time": 1577962004830
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.85566986",
+            "longitude": "75.34967238",
+            "time": 1577985055196
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1577787315249
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.882621905222386",
+            "longitude": "75.36716982739924",
+            "time": 1577815051800
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1577536904198
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1577536903920
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "18.9987595",
+            "longitude": "74.590109",
+            "time": 1577251879753
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "14.0247009",
+            "longitude": "76.5789844",
+            "time": 1577239604294
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "13.8093012",
+            "longitude": "76.7908149",
+            "time": 1577199317458
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9490589",
+            "longitude": "77.6904254",
+            "time": 1580222504960
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740034",
+            "longitude": "77.744035",
+            "time": 1589984769273
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491767",
+            "longitude": "77.6903778",
+            "time": 1575611544005
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739136",
+            "longitude": "77.7440003",
+            "time": 1575487539334
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739758",
+            "longitude": "77.7440143",
+            "time": 1575602993439
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491224",
+            "longitude": "77.6904906",
+            "time": 1575442071434
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491832",
+            "longitude": "77.6904642",
+            "time": 1575470832755
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740137",
+            "longitude": "77.7439352",
+            "time": 1575023003720
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491552",
+            "longitude": "77.6904441",
+            "time": 1574831224002
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739719",
+            "longitude": "77.7440448",
+            "time": 1574862769327
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491095",
+            "longitude": "77.6904607",
+            "time": 1574764564043
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491962",
+            "longitude": "77.6904136",
+            "time": 1574774894201
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.949398",
+            "longitude": "77.6913689",
+            "time": 1574791421849
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9492427",
+            "longitude": "77.6900038",
+            "time": 1574689898331
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740926",
+            "longitude": "77.743982",
+            "time": 1574563541125
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9741154",
+            "longitude": "77.7439455",
+            "time": 1574586060885
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491837",
+            "longitude": "77.6904664",
+            "time": 1574249334967
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9741168",
+            "longitude": "77.7439436",
+            "time": 1574184144415
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1573924412564
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1573922988422
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491151",
+            "longitude": "77.6904741",
+            "time": 1576487292295
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739744",
+            "longitude": "77.744081",
+            "time": 1589889451527
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740034",
+            "longitude": "77.744035",
+            "time": 1589984718344
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714853",
+            "longitude": "77.7411682",
+            "time": 1569748348792
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.949154",
+            "longitude": "77.6905273",
+            "time": 1569560637807
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9493034",
+            "longitude": "77.6899387",
+            "time": 1569581093533
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714913",
+            "longitude": "77.7411823",
+            "time": 1569554184558
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714927",
+            "longitude": "77.7411638",
+            "time": 1569515351972
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9490929",
+            "longitude": "77.690422",
+            "time": 1569491820648
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9699889",
+            "longitude": "77.7396808",
+            "time": 1569337304696
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9699889",
+            "longitude": "77.7396808",
+            "time": 1569325032956
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.970386",
+            "longitude": "77.738949",
+            "time": 1569306567592
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9713975",
+            "longitude": "77.7411825",
+            "time": 1568641033577
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714853",
+            "longitude": "77.7411682",
+            "time": 1569748380117
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739744",
+            "longitude": "77.744081",
+            "time": 1589889430653
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.97401",
+            "longitude": "77.7440536",
+            "time": 1580191558746
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.97401",
+            "longitude": "77.7440536",
+            "time": 1579932496573
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491596",
+            "longitude": "77.690378",
+            "time": 1579786359858
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740023",
+            "longitude": "77.7440016",
+            "time": 1579711545534
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740189",
+            "longitude": "77.7440534",
+            "time": 1579749957977
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491662",
+            "longitude": "77.6904948",
+            "time": 1579673009809
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9738874",
+            "longitude": "77.7440183",
+            "time": 1579698584928
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9489136",
+            "longitude": "77.6901876",
+            "time": 1579587086692
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739089",
+            "longitude": "77.7440187",
+            "time": 1579570057487
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.974034",
+            "longitude": "77.7439386",
+            "time": 1588429449685
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9752684",
+            "longitude": "77.7450292",
+            "time": 1583353654657
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9752684",
+            "longitude": "77.7450292",
+            "time": 1583354897056
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491778",
+            "longitude": "77.6904959",
+            "time": 1583401293172
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739847",
+            "longitude": "77.7440449",
+            "time": 1576389829323
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740401",
+            "longitude": "77.7440176",
+            "time": 1576417124460
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9023532",
+            "longitude": "77.7025496",
+            "time": 1576351620961
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491788",
+            "longitude": "77.6904882",
+            "time": 1570627009152
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9715051",
+            "longitude": "77.7411751",
+            "time": 1570545709280
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9715061",
+            "longitude": "77.7411716",
+            "time": 1570553848054
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9715167",
+            "longitude": "77.7411753",
+            "time": 1570586559279
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491641",
+            "longitude": "77.6904632",
+            "time": 1570540045999
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714796",
+            "longitude": "77.7412055",
+            "time": 1570263167800
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714984",
+            "longitude": "77.7411991",
+            "time": 1570466302662
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491038",
+            "longitude": "77.6904434",
+            "time": 1583395314619
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491038",
+            "longitude": "77.6904434",
+            "time": 1583392391984
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491698",
+            "longitude": "77.6904783",
+            "time": 1573209419632
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491698",
+            "longitude": "77.6904783",
+            "time": 1573209357243
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714462",
+            "longitude": "77.7411109",
+            "time": 1573290698015
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714983",
+            "longitude": "77.7411757",
+            "time": 1573329408863
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491698",
+            "longitude": "77.6904783",
+            "time": 1573209458296
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740225",
+            "longitude": "77.7440859",
+            "time": 1588427211546
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740225",
+            "longitude": "77.7440859",
+            "time": 1588328441129
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9495978",
+            "longitude": "77.6881485",
+            "time": 1568046727747
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491445",
+            "longitude": "77.690509",
+            "time": 1566480549768
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9714863",
+            "longitude": "77.7411726",
+            "time": 1567871417547
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740285",
+            "longitude": "77.7438743",
+            "time": 1588945968454
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740299",
+            "longitude": "77.7439335",
+            "time": 1588937021615
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739543",
+            "longitude": "77.7441034",
+            "time": 1588595458909
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740212",
+            "longitude": "77.7440991",
+            "time": 1588611389339
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9752684",
+            "longitude": "77.7450292",
+            "time": 1583353355252
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740163",
+            "longitude": "77.7439944",
+            "time": 1584040081946
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491574",
+            "longitude": "77.6904883",
+            "time": 1582892067116
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491786",
+            "longitude": "77.6904997",
+            "time": 1582651225466
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491329",
+            "longitude": "77.6905287",
+            "time": 1582514232887
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740677",
+            "longitude": "77.7439457",
+            "time": 1582548856088
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491339",
+            "longitude": "77.6905245",
+            "time": 1582196347996
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739681",
+            "longitude": "77.743982",
+            "time": 1582223019911
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.94915",
+            "longitude": "77.6905175",
+            "time": 1582000595691
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491698",
+            "longitude": "77.6904783",
+            "time": 1573208854882
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.971499",
+            "longitude": "77.7411751",
+            "time": 1573099593256
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9715332",
+            "longitude": "77.7411674",
+            "time": 1573187709490
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9490387",
+            "longitude": "77.6903756",
+            "time": 1573046906975
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9490387",
+            "longitude": "77.6903756",
+            "time": 1572957517214
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9726853",
+            "longitude": "77.5870734",
+            "time": 1572848179434
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "17.1762974",
+            "longitude": "74.1986721",
+            "time": 1572801088497
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "17.2664728",
+            "longitude": "74.1787181",
+            "time": 1572800820400
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "18.4556048",
+            "longitude": "73.857895",
+            "time": 1572785577712
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557958",
+            "longitude": "75.349844",
+            "time": 1572756370609
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557958",
+            "longitude": "75.349844",
+            "time": 1572700915516
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1572743217832
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557962",
+            "longitude": "75.3498267",
+            "time": 1572484798070
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.855799",
+            "longitude": "75.3498267",
+            "time": 1572368843326
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.855799",
+            "longitude": "75.3498267",
+            "time": 1572344680359
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.855799",
+            "longitude": "75.3498267",
+            "time": 1572316270401
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.855799",
+            "longitude": "75.3498267",
+            "time": 1572234282192
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557991",
+            "longitude": "75.3493276",
+            "time": 1571712790232
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9752684",
+            "longitude": "77.7450292",
+            "time": 1583355045321
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740054",
+            "longitude": "77.7440552",
+            "time": 1588314897573
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740364",
+            "longitude": "77.7439213",
+            "time": 1588101903650
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740364",
+            "longitude": "77.7439213",
+            "time": 1588101903071
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491483",
+            "longitude": "77.6904824",
+            "time": 1567522275252
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739097",
+            "longitude": "77.7439456",
+            "time": 1576159567676
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9490357",
+            "longitude": "77.6904441",
+            "time": 1576086576768
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739174",
+            "longitude": "77.7440367",
+            "time": 1576119707096
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9738912",
+            "longitude": "77.744016",
+            "time": 1576030314675
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9738712",
+            "longitude": "77.743967",
+            "time": 1575889749586
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491579",
+            "longitude": "77.6904873",
+            "time": 1575652079832
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739014",
+            "longitude": "77.7440414",
+            "time": 1575714534480
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739349",
+            "longitude": "77.7439715",
+            "time": 1575737308417
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740039",
+            "longitude": "77.7438825",
+            "time": 1575771228749
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491665",
+            "longitude": "77.6904949",
+            "time": 1576743029195
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739853",
+            "longitude": "77.7440014",
+            "time": 1576770825990
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739853",
+            "longitude": "77.7440014",
+            "time": 1576689143998
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.94911",
+            "longitude": "77.6904585",
+            "time": 1576487812063
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491151",
+            "longitude": "77.6904741",
+            "time": 1576498972464
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491876",
+            "longitude": "77.6904823",
+            "time": 1576574073197
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739052",
+            "longitude": "77.7439554",
+            "time": 1576596108498
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491581",
+            "longitude": "77.690533",
+            "time": 1566579749598
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "19.8557991",
+            "longitude": "75.3493276",
+            "time": 1571711655088
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491458",
+            "longitude": "77.6905273",
+            "time": 1566464116206
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740044",
+            "longitude": "77.743898",
+            "time": 1576771168977
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.974034",
+            "longitude": "77.7439386",
+            "time": 1588427225642
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9752684",
+            "longitude": "77.7450292",
+            "time": 1583354606859
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739945",
+            "longitude": "77.7440864",
+            "time": 1589985102388
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739887",
+            "longitude": "77.7440622",
+            "time": 1583373349065
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9752684",
+            "longitude": "77.7450292",
+            "time": 1583353006558
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9745447",
+            "longitude": "77.7446716",
+            "time": 1583351203367
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491505",
+            "longitude": "77.6905432",
+            "time": 1581933672573
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.46216753",
+            "longitude": "75.69699497",
+            "time": 1581592556981
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739418",
+            "longitude": "77.744012",
+            "time": 1581556309102
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491229",
+            "longitude": "77.6904729",
+            "time": 1581520425590
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491229",
+            "longitude": "77.6904729",
+            "time": 1581486725450
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9746807",
+            "longitude": "77.7475327",
+            "time": 1581474315913
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491477",
+            "longitude": "77.6904737",
+            "time": 1581436501149
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.949074",
+            "longitude": "77.6904209",
+            "time": 1581318700310
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9488767",
+            "longitude": "77.6906983",
+            "time": 1568270124220
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9738998",
+            "longitude": "77.7439807",
+            "time": 1579541406387
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739089",
+            "longitude": "77.7440187",
+            "time": 1579569991983
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9738915",
+            "longitude": "77.7440059",
+            "time": 1579505565750
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9738915",
+            "longitude": "77.7440059",
+            "time": 1579345560817
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740205",
+            "longitude": "77.7440809",
+            "time": 1579197057751
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740205",
+            "longitude": "77.7440809",
+            "time": 1579105243390
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739459",
+            "longitude": "77.7440533",
+            "time": 1578673363609
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.974002",
+            "longitude": "77.7440534",
+            "time": 1578768754671
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9490969",
+            "longitude": "77.690413",
+            "time": 1578653328267
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9740046",
+            "longitude": "77.7439702",
+            "time": 1585387822854
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739952",
+            "longitude": "77.7439575",
+            "time": 1585364956491
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739963",
+            "longitude": "77.7439612",
+            "time": 1585190084601
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9713975",
+            "longitude": "77.7411825",
+            "time": 1568464236532
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9491788",
+            "longitude": "77.6904882",
+            "time": 1570627029644
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9752684",
+            "longitude": "77.7450292",
+            "time": 1583353285947
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9752684",
+            "longitude": "77.7450292",
+            "time": 1583354566058
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739887",
+            "longitude": "77.7440622",
+            "time": 1583373489158
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9739963",
+            "longitude": "77.7439612",
+            "time": 1585190010826
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.973986",
+            "longitude": "77.7439885",
+            "time": 1585099246682
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9490717",
+            "longitude": "77.6904203",
+            "time": 1578651504164
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9738788",
+            "longitude": "77.7440513",
+            "time": 1578625187449
+        },
+        {
+            "deviceId": "2cdc3b2832e226cf",
+            "uuid": "UXDMR5Y1RNL",
+            "os": "Android",
+            "latitude": "12.9490752",
+            "longitude": "77.6887654",
+            "time": 1578594829971
+        }
+    ],
+    "message": null
+}
