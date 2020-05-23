@@ -11,4 +11,4 @@ Store user locations and predict the user's home/work locations
    python manage.py runserver   
    ```
  4. Enter url in browser
-    http://127.0.0.1:8000/locations/plot_location_graph/
+    http://127.0.0.1:8000/locations/index/
