@@ -24,7 +24,6 @@ matplotlib.use('Agg')
 plt = matplotlib.pyplot
 kms_per_radian = 6371.0088
 
-
 def get_centermost_point(cluster):
     centroid = (
         MultiPoint(cluster).centroid.x, MultiPoint(cluster).centroid.y)
