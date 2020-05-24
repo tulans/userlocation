@@ -91,15 +91,15 @@ def get_emailid(request):
         if form.is_valid():
             try:
                 email = form.data["email_id"]
-                # r_json = call_argus(email)
-                # if not r_json:
-                #     return TemplateResponse(
-                #         request,
-                #         "graph.html",
-                #         {"form": form, "error": "Error while calling Argus"},
-                #     )
+                r_json = call_argus(email)
+                if not r_json:
+                    return TemplateResponse(
+                        request,
+                        "graph.html",
+                        {"form": form, "error": "Error while calling Argus"},
+                    )
 
-                r_json = get_dataset('locations/userdata.json')
+                # r_json = get_dataset('locations/userdata.json')
                 data_json = pd.DataFrame.from_dict(r_json['data'], orient='columns')
                 data = pd.DataFrame.from_dict(data_json, orient='columns')
                 data['date'] = pd.to_datetime(data['time'], unit='ms')
