@@ -9,6 +9,7 @@ Django==3.0.6
 geographiclib==1.50
 geopy==1.22.0
 gmplot==1.2.0
+googlemaps==4.4.0
 idna==2.9
 ipython==7.14.0
 ipython-genutils==0.2.0

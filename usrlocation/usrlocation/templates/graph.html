@@ -14,8 +14,9 @@
           </form>
             {% if email %}
             <div class="pad10">
-              <p>Data for <span class="spanemail">{{email}}</p>
+              <p>Data for <span class="span-email">{{email}}</span></p>
             </div>
+
             <div class="row">
               <div class="column">
                 <img src="{% static 'usrlocation/images/g3.png' %}" alt="graph"/>
@@ -29,7 +30,80 @@
             <div class="map-container">
                 <iframe src="{% static 'usrlocation/helper_templates/map.html' %}" title="Location history" width="100%" height="80%"></iframe>
             </div>
+
+            <div>
+              <button id="mapdetails" class="button">More details</button>
+            </div>
             {% endif %}
+
+          {% if gmdata %}
+              <table border="1" class="table-style">
+                <tr>
+                  <th>Number of Unique OS types that user uses</th>
+                  <td>{{gmdata.uniqueOS}}</td>
+                </tr>
+                <tr>
+                  <th>Unique Device Id count</th>
+                  <td>{{gmdata.uniqueDID}}</td>
+                </tr>
+                <tr>
+                  <th>Total data set for location that would be analyzed</th>
+                  <td>{{gmdata.totloc}}</td>
+                </tr>
+                <tr>
+                  <td colspan="2">{{gmdata.message}}</td>
+                </tr>
+                <!--<tr>
+                  <td colspan="2">{{gmdata.silcoeff}}</td>
+                </tr>-->
+                  <tr>
+                  <td colspan="2">{{gmdata.location_tag}}</td>
+                </tr>
+              </table>
+              <br>
+              <table border="1" class="table-style" style="width: 100%">
+
+                  <tr><td colspan="4">Top Region/Area/Places that user visited (Conversion of Lat Long to Address by <b>GEO PY</b>) <td></tr>
+                <tr>
+                  <th>Top Cities visited by the user</th>
+                  <td colspan="3">{{gmdata.topcities}}</td>
+                </tr>
+                <tr>
+                  <!--<th>Top Region/Area/Places that user visits by GEO PY</th>-->
+                    <th>cluster Id</th>
+                    <th>postcode</th>
+                  <th>city</th>
+                  <th>address</th>
+                </tr>
+                  {% for record in gmdata.placedetails %}
+                    <tr>
+                        <td>{{record.cluster_id}}</td>
+                      <td>{{record.postcode}}</td>
+                      <td>{{record.city}}</td>
+                      <td>{{record.address}}</td>
+
+                    </tr>
+                  {% endfor %}
+                  <tr><td colspan="4">Top Region/Area/Places that user visited (Conversion of Lat Long to Address by <b>GOOGLE</b>) <td></tr>
+                <tr>
+                  <th>Top Postal Code visited by the user </th>
+                  <td colspan="3">{{gmdata.toppc}}</td>
+                </tr>
+                <tr>
+                  <!--<th>Top Region/Area/Places that user visits by GOOGLE</th>-->
+                    <th>cluster Id</th>
+                  <th>gpostal_code</th>
+                  <th colspan="2">gaddress</th>
+                </tr>
+                {% for record in gmdata.placedetails %}
+                    <tr>
+                        <td>{{record.cluster_id}}</td>
+                      <td>{{record.gpostal_code}}</td>
+                      <td colspan="2">{{record.gaddress}}</td>
+                    </tr>
+                  {% endfor %}
+              </table>
+          {% endif %}
 
             {% if error %}
             <div class="pad10">
@@ -39,4 +113,9 @@
 
         </div>
     </body>
+    <script type="text/javascript">
+        document.getElementById("mapdetails").onclick = function () {
+            location.href = "/locations/gmap_details/";
+        };
+    </script>
 </html>
